@@ -7,10 +7,6 @@
 This map aims to serve as a practice map for early game tasks in [MC Draftout](draftoutmc.com)
 ### This map has only been tested in 26.1.1
 
-### Explanation Videos
-- **Map overview** [https://youtu.be/jlA-jW7VGqw](https://youtu.be/jlA-jW7VGqw)  
-- **Loadout overview** [https://youtu.be/uTn9LwB5WAE](https://youtu.be/uTn9LwB5WAE) 
-
 ### Installation
 1) Go to [releases](https://github.com/Nozratt/DraftoutPractice/releases) and download the [latest version](https://github.com/Nozratt/DraftoutPractice/releases/latest)
 2) Open your `.minecraft` directory and go to `/saves/`
