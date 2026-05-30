@@ -5,6 +5,9 @@
 ## Introduction
 
 This map aims to serve as a practice map for early game tasks in [MC Draftout](draftoutmc.com)
+
+If you want to update version without losing saved times, replace the `datapacks` folder in the old world with the new one
+
 ### This map has only been tested in 26.1.1
 
 ### Installation
