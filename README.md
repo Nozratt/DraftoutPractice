@@ -6,7 +6,7 @@
 
 This map aims to serve as a practice map for early game tasks in [MC Draftout](draftoutmc.com)
 
-If you want to update version without losing saved times, replace the `datapacks` folder in the old world with the new one
+If you want to update version without losing saved times, replace the `datapacks` and `resourcepacks` folder in the old world with the new one
 
 ### This map has only been tested in 26.1.1
 
@@ -20,6 +20,7 @@ If you want to update version without losing saved times, replace the `datapacks
 saves
 └── DraftoutPracticeV*.*
     ├── datapacks
+    ├── resourcepacks
     ├── icon.png
     └── level.dat
 ```
